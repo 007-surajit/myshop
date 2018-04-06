@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="ast_license_base" label="license" max_length="40" name="x_210642_my_shop_license" type="collection"/>
+</database>
