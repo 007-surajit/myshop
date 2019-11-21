@@ -1,4 +1,4 @@
-"dashboard":
+{"dashboard":
 {
   "smNumber": "8000254386",
   "firstName": "Azhar",
@@ -43,4 +43,5 @@
   "hasEmail": true,
   "program": "null",
   "contractMgtEnt": "null"
+}
 }
